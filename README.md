@@ -19,12 +19,11 @@ Backend technologies I work with include
 - `Node.js`
 - `C#` with `ASP.NET Core`
 
-In order to be able to create beautiful interfaces with a good user experience,
-I employ design principles and
-think about interaction and information design.
-In general, I always have the user in mind when I develop software.
+In developing software there are two essential building blocks: 
+user experience and developer experience. 
+Clean coding and documenting provides good developer experience and is necessary for developing functioning, performant and effective software together. 
+Using design principles for UI and UX and utilitzing fields as interaction and information design is necessary to provide a great user experience.
 
-This approach of design thinking is rounded up 
-by a good portion of system thinking - 
+I complement this approach of design thinking with system thinking - 
 having the big picture in mind when working on the small ones.
 This makes my work very holistic.
